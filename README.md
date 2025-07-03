@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Experience:
 
-  * Observability of [Apache Doris](https://github.com/apache/doris)
-  * Doris Exporter in [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+  * Observability of [Apache Doris](https://github.com/apache/doris), Doris Exporter in [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector-contrib)
   * Python UDF in [MatrixOne](https://github.com/matrixorigin/matrixone)
   * Spark ML and Tensorflow Backends in [Apache Wayang](https://github.com/apache/incubator-wayang)
 
