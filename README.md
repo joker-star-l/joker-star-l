@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **joker-star-l/joker-star-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mingxi</h1>
-<h3 align="center">A data infra developer</h3>
+<h1 align="">Hi 👋, I'm Mingxi</h1>
+<h3 align="">A data infra developer</h3>
 
 - 🌱 I’m currently learning **LLM**
 
